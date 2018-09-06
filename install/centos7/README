@@ -1,0 +1,2 @@
+#使用说明
+cp docker-ce.repo /etc/yum.repos.d/docker-ce.repo
